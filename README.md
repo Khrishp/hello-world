@@ -1,2 +1,3 @@
 # hello-world
 first git hub thing I've ever done
+This is going to b intersting, The most I know about branches is that you can create loogs using the branch command in assembly...
